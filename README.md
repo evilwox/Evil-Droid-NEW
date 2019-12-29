@@ -22,17 +22,15 @@
 	6 - Zipalign
 
 ## Download/Config/Usage:
-    1? - Download the tool from github
-         git clone https://github.com/evilwox/Evil-Droid-NEW.git
-
-    2? - Set script execution permission
-         cd Evil-Droid-NEW
-         chmod +x evil-droid
-
-
-    4?- Run Evil-Droid Framework :
-       ./evil-droid
-         see options bellow	   
+------------------------------------------------------------------ /
+⚠️ Evil-Droid :  👉️Open terminal👈                                  /
+                                                                   /
+1: git clone https://github.com/evilwox/Evil-Droid-NEW.git         /
+2: cd Evil-Droid-NEW                                               /
+3: chmod +x evil-droid                                             /
+4: ./evil-droid                                                    /
+                                                                   /
+-------------------------------------------------------------------/   
       
 
 ## video tutorial: 
