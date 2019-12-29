@@ -23,10 +23,10 @@
 
 ## Download/Config/Usage:
     1? - Download the tool from github
-         git clone https://github.com/Evilwox/Evil-Droid-NEW.git
+         git clone https://github.com/evilwox/Evil-Droid-NEW.git
 
     2? - Set script execution permission
-         cd Evil-Droid
+         cd Evil-Droid-NEW
          chmod +x evil-droid
 
 
