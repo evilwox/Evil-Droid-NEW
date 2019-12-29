@@ -23,15 +23,15 @@
 
 ## Download/Config/Usage:
         
-	----------------------------------------------------------------- /
-        ⚠️ Evil-Droid :  👉️Open terminal👈                                 /
-                                                                          /
-    git clone https://github.com/evilwox/Evil-Droid-NEW.git               /
-    cd Evil-Droid-NEW                                                     /
-    chmod +x evil-droid                                                   /
-    ./evil-droid                                                          /
-                                                                          /
-       -------------------------------------------------------------------/   
+	----------------------------------------------------------------- 
+        ⚠️ Evil-Droid :  👉️Open terminal👈                                 
+                                                                          
+    git clone https://github.com/evilwox/Evil-Droid-NEW.git               
+    cd Evil-Droid-NEW                                                     
+    chmod +x evil-droid                                                   
+    ./evil-droid                                                          
+                                                                          
+       -------------------------------------------------------------------   
       
 
 ## video tutorial: 
