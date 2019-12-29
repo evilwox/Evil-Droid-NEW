@@ -22,15 +22,16 @@
 	6 - Zipalign
 
 ## Download/Config/Usage:
------------------------------------------------------------------- /
-⚠️ Evil-Droid :  👉️Open terminal👈                                  /
-                                                                   /
-1: git clone https://github.com/evilwox/Evil-Droid-NEW.git         /
-2: cd Evil-Droid-NEW                                               /
-3: chmod +x evil-droid                                             /
-4: ./evil-droid                                                    /
-                                                                   /
--------------------------------------------------------------------/   
+        
+	----------------------------------------------------------------- /
+        ⚠️ Evil-Droid :  👉️Open terminal👈                                 /
+                                                                          /
+       1: git clone https://github.com/evilwox/Evil-Droid-NEW.git         /
+       2: cd Evil-Droid-NEW                                               /
+       3: chmod +x evil-droid                                             /
+       4: ./evil-droid                                                    /
+                                                                          /
+       -------------------------------------------------------------------/   
       
 
 ## video tutorial: 
