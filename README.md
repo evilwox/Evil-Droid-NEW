@@ -26,10 +26,10 @@
 	----------------------------------------------------------------- /
         ⚠️ Evil-Droid :  👉️Open terminal👈                                 /
                                                                           /
-       1: git clone https://github.com/evilwox/Evil-Droid-NEW.git         /
-       2: cd Evil-Droid-NEW                                               /
-       3: chmod +x evil-droid                                             /
-       4: ./evil-droid                                                    /
+    git clone https://github.com/evilwox/Evil-Droid-NEW.git               /
+    cd Evil-Droid-NEW                                                     /
+    chmod +x evil-droid                                                   /
+    ./evil-droid                                                          /
                                                                           /
        -------------------------------------------------------------------/   
       
